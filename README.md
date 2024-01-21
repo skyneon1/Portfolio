@@ -1,5 +1,5 @@
 
-# GDSC - LOGIN PAGE
+# Personal Portfolio website 
 
 This is my portfolio website in which i included all my projects and update it whenever i have to add some extra features or projects.
 
